@@ -1,3 +1,3 @@
 Summary.md
-Section* Introduction.md
+Introduction.md
 Section* Steps of Meta Analysis.md
